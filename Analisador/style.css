@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(77, 128, 224);
+    font: 15pt Arial;
+}
+main {
+    display: block;
+}
+header {
+    text-align: center;
+    color: white;
+}
+section {
+    background-color: #ffffff;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.557) 5px 5px 10px;
+    padding: 15px;
+    margin: auto;
+}
+
+select {
+    width: 350px;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
